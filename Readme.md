@@ -7,8 +7,6 @@
 -   LCS (Theory)
 
 ## New updates
--   LCS theory
-    - recursive
-    - memorization
-    - top-down
-    
+-   LCS question
+    - lc substring
+    - lcs printing
