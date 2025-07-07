@@ -3,12 +3,12 @@
 
 ## Currently covered topics 
 -   knapsack (Theory)
--   knapsack (questions)
+-   knapsack (Questions)
+-   LCS (Theory)
 
 ## New updates
--   knapsack 
-    - count of subsets
-    - equal sum partition
-    - minimum subset sum diff
-    - subset sum
-    - target sum
+-   LCS theory
+    - recursive
+    - memorization
+    - top-down
+    
