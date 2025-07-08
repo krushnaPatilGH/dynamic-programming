@@ -5,12 +5,10 @@
 -   knapsack (Theory)
 -   knapsack (Questions)
 -   LCS (Theory)
--   LCS (Questions, Partially)
+-   LCS (Questions)
 
 ## New updates
 -   LCS Questions
-    - longest palidromic subsequence (LPS)
-    - minimum deletions to LPS
-    - shortest common supersequence (SCS)
-    - printing SCS
-    - Minimum insertions and deletions to convert string a to string b
+    - minimum insertions to LPS
+    - longest repeating subsequence
+    - sequence pattern matching
