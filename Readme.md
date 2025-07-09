@@ -6,9 +6,9 @@
 -   knapsack (Questions)
 -   LCS (Theory)
 -   LCS (Questions)
+-   MCM (Theory)
 
 ## New updates
--   LCS Questions
-    - minimum insertions to LPS
-    - longest repeating subsequence
-    - sequence pattern matching
+-   MCM Theory
+    - MCM recursive
+    - MCM memorization
