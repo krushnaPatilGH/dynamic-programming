@@ -7,8 +7,11 @@
 -   LCS (Theory)
 -   LCS (Questions)
 -   MCM (Theory)
+-   MCM (Questions Partially)
 
 ## New updates
--   MCM Theory
-    - MCM recursive
-    - MCM memorization
+-   MCM Questions
+    - palindrome partitioning recursive
+    - palindrome partitioning memorization
+    - palindrome partitioning memory optimization
+    - boolean paranthisization 
