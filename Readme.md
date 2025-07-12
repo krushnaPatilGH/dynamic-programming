@@ -11,7 +11,5 @@
 
 ## New updates
 -   MCM Questions
-    - palindrome partitioning recursive
-    - palindrome partitioning memorization
-    - palindrome partitioning memory optimization
-    - boolean paranthisization 
+    - boolean parenthisization memorized
+    - scrambled string recursive
