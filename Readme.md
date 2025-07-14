@@ -7,9 +7,10 @@
 -   LCS (Theory)
 -   LCS (Questions)
 -   MCM (Theory)
--   MCM (Questions Partially)
+-   MCM (Questions)
 
 ## New updates
 -   MCM Questions
-    - boolean parenthisization memorized
-    - scrambled string recursive
+    - scrambled string memorizedd
+    - egg dropping
+    - edd dropping memorization
