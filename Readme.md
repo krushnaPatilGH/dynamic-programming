@@ -13,4 +13,4 @@
 -   MCM Questions
     - scrambled string memorizedd
     - egg dropping
-    - edd dropping memorization
+    - egg dropping memorization
